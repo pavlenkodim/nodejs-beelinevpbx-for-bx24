@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "bx-id": 1194,
+      "bx-name": "Дмитрий",
+      "bx-tel-mobile": "+77055598146",
+      "bx-tel-in": "1033",
+      "bee-id": 256,
+      "bee-tel": "+77055598146"
+    },
+    {
+      "bx-id": 958,
+      "bx-name": "Тест",
+      "bx-tel-mobile": "",
+      "bx-tel-in": "6666",
+      "bee-id": 256,
+      "bee-tel": ""
+    }
+  ]
+}

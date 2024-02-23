@@ -1,0 +1,21 @@
+{
+  "name": "beelinevpbx-integration-bitrix24",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab/Admin3Triline/beelinevpbx-integration-bitrix24.git"
+  },
+  "author": "Dmitry Pavlenko",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "nodemon": "^3.1.0"
+  }
+}
