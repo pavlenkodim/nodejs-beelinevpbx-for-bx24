@@ -11,7 +11,7 @@ const date = new Date();
 const today = {
     str : `${date.getFullYear()}-${date.getMonth() > 10 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1)}-${date.getDate()} ${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}.${date.getMilliseconds()}`,
     strUTC : `${date.getFullYear()}-${date.getMonth() > 10 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1)}-${date.getDate()} ${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}.${date.getMilliseconds()}`,
-    strYMD : `${date.getFullYear()}_${date.getMonth() > 10 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1)}_${date.getDate()}`,
+    strYMD : `${date.getFullYear()}-${date.getMonth() > 10 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1)}-${date.getDate()}`,
     strDMY : `${date.getDate()}_${date.getMonth() > 10 ? date.getMonth() + 1 : "0" + (date.getMonth() + 1)}_${date.getFullYear()}`
 }
 
