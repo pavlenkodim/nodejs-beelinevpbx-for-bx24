@@ -1,4 +1,14 @@
 {
-  "user": 1194,
-  "token": "v1lezbco6fyzs2m7"
+  "bitrix": {
+    "user": 1194,
+    "token": "v1lezbco6fyzs2m7"
+  },
+  "beeVPBX": {
+    "api_token": "3c189498-bdc8-4241-8693-f157fb17a884",
+    "profileID": 256,
+    "auth": {
+      "login": "test02",
+      "password": "Password2022!"
+    }
+  }
 }
